@@ -11,3 +11,5 @@ https://github.com/lulop-k/kurento-rtsp2webrtc
 https://developers.google.com/youtube/v3/live/code_samples/
 
 https://developers.google.com/youtube/v3/live/getting-started
+
+https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
